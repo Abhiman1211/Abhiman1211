@@ -1,5 +1,5 @@
-About Me
-<p align="center"><b>HEY EVERYONE!</b></p>
+<p align="center"><b>About Me</b></p>
+<p align="center"><b>Hey Everyone!</b></p>
 I'm Abhiman Gautam, a Final Year student pursuing Computer Science Engineering at Vellore Institute Of Technology.🙏
 
 Here are a few key points about me:
